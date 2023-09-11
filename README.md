@@ -9,7 +9,7 @@
 
 <div align="center">
 <scr=“https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif”>
-  <img height="200" src=""  />
+  <img height="200"
 </div>
 
 ###
