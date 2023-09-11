@@ -1,4 +1,3 @@
-
 <h1 align="left">Hey 👋 I'm Parthiv Patel!</h1>
 
 ###
@@ -8,8 +7,7 @@
 ###
 
 <div align="center">
-<scr=“https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif”>
-  <img height="200"
+  <img height="200" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
 
 ###
@@ -84,4 +82,3 @@
 </div>
 
 ###
-
