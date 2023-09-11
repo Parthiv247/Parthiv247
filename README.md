@@ -12,7 +12,7 @@
 
 ###
 
-<h4 align="left"># I am Parthiv Patel!!<br><br>## About Me<br><br>💻 I am a Machine Learning Developer.<br>📚 I have a Bachelors in Computer Science from the Lovely Professional University in Punjab, India.<br>📝 I have a strong interest in Data Science and Artificial Intelligence.<br>🔭 Currently working on Deep Learning & Machine Learning.<br>🌱 Learning about Computer Vision and deep neural network concepts.<br>🌟 Main languages: Python, C++.<br>🚩 Passionate about Machine Learning Application development.</h4>
+<h4 align="left"># I am Parthiv Patel!!<br><br>## About Me<br><br>💻 I am a Machine Learning Developer.<br>📚 I have a Bachelors in Computer Science from the Lovely Professional University, Punjab, India.<br>📝 I have a strong interest in Data Science and Artificial Intelligence.<br>🔭 Currently working on Deep Learning & Machine Learning.<br>🌱 Learning about Computer Vision and deep neural network concepts.<br>🌟 Main languages: Python, C++.<br>🚩 Passionate about Machine Learning Application development.</h4>
 
 ###
 
